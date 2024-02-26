@@ -1,0 +1,2 @@
+E-COMMERCE CUSTOMER DATA EXPLORATORY DATA ANALYSIS
+The project presents an Exploratory Data Analysis conducted on a dataset containing information about E-Commerce customer data information about the way customers interact with the website, the way they purchase products , the way they view pages of the website, items added to cart, the product browsing time and also their credentials.This project aims to leverage customer behavior data on the website to gain valuable insights and address key problems impacting business performance. 
